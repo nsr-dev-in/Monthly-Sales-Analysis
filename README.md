@@ -139,16 +139,6 @@ Example:
 
 ---
 
-## 📷 Dashboard Preview
-
-> Add your dashboard screenshot inside the `screenshots` folder and update the image path below.
-
-```markdown
-![Dashboard Preview](screenshots/dashboard_preview.png)
-```
-
----
-
 ## 📁 Project Structure
 
 ```text
